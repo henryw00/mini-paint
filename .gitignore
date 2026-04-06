@@ -1,0 +1,16 @@
+# Node/Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Python/ML
+ml-service/__pycache__/
+ml-service/venv/
+ml-service/.env
+
+# Java/Backend
+core-backend/target/
+core-backend/*.class
+
+# OS Files
+.DS_Store
